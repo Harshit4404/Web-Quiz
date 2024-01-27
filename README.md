@@ -12,5 +12,5 @@
 
 ## Web quiz
 
-![Web Quiz Screenshot 3](https://raw.githubusercontent.com/Harshit4404/Web-Quiz/main/Screenshots/Page3.png)
+![Web Quiz Screenshot 3](https://raw.githubusercontent.com/Harshit4404/Web-Quiz/main/Screenshots/page3.png)
 
